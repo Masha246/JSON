@@ -1,5 +1,5 @@
 	{
-		Environment	Title	Steps	Expected Result	Actual Result	Link	Telegram @nick	Environment	Telegram @nick	Environment	Telegram @nick	Comment												
+		[ Environment	Title	Steps	Expected Result	Actual Result	Link	Telegram @nick	Environment	Telegram @nick	Environment	Telegram @nick	Comment												
 1	Major		"After tapping on the [Send a suggestion] button do not 
 open the mail"	"1. Launch the app
 2. Scroll down 
@@ -17,5 +17,5 @@ iPhone 13 Pro  iOS 16.1.1
 @yaninka333 отрабатывает ожидаемо, локаль Польша
 @helgahelga7777 отрабатывает ожидаемо
 @Daybreaker322 відпрацьовує так як очікується
-@Kupridjan-Actual Result"												
+@Kupridjan-Actual Result" ]												
  }
