@@ -1,13 +1,13 @@
-	{ [ id 1
-		title: the page with item's description is not opened
-		environment: Win 10 Chrome 121
-		Severity: Major
-		Steps: 1. Go to the page www.shop.com
+	{ "id": "1",
+	"title": "the page with item's description is not opened",
+	"environment": "Win 10 Chrome 121",
+	"Severity": "Major",
+	"Steps": "1. Go to the page www.shop.com
 		click button [catalog]
-		click any item
-		er: the page with item's description is opened
-		ar: the page with item's description is not opened
-		Attachment: link
-		Tester's name
-		comments ]
+		click any item",
+	"er": "the page with item's description is opened",
+	"ar": "the page with item's description is not opened",
+	"Attachment": "link",
+	"Author": "Tester's name",
+	"comments": "..."
  }
