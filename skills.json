@@ -1,4 +1,5 @@
-devtools
-git
-terminal
-теория
+{ "devtools",
+"git",
+"terminal",
+"теория"
+}
