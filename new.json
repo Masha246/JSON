@@ -1,7 +1,8 @@
-nekrashevich maria
-42 years
-no animals
-1000
+{ "name": " nekrashevich maria",
+"age": "42 years",
+  "pets": "0",
+  "salary": "1000"
+}
 
 
 
